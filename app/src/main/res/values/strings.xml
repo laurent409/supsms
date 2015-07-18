@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SUPSMS</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="welcome">Welcome to SUPSMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">About</string>
+    <string name="about_content">Created by Boutrig team./n Contact us to 173133@supinfo.com.n/Copyright 2015 Boutrig. All rights reserved.</string>
+    <string name="aboutContentOne">What is SupSMS ?</string>
+    <string name="aboutContentTwo">SupSMS is a simple Android app that backs up and restores your phone\'s text messages.</string>
+    <string name="aboutContentThree">About us</string>
+    <string name="aboutContentFour">We have designed, developed and published apps for iOS, Windows Phone and Android.The occasional web app and we have even published one of our applications</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
